@@ -6,11 +6,11 @@
 
 
    ## Description
-    generate a readme.md file
+   * generate a readme.md file
    ## User Story
-    AS a developer, I want a README generator, so that I can quickly create a professional README for a new project
+   * AS a developer, I want a README generator, so that I can quickly create a professional README for a new project
    ## Acceptance Criteria
-    Given a command line application that accepts user input, When I am prompted for information about my app repo, Then I a README.md is generated
+   * Given a command line application that accepts user input, When I am prompted for information about my app repo, Then I a README.md is generated
    ## Github Repository
-    angelgiovanna
+   * angelgiovanna
   
