@@ -5,9 +5,9 @@ For this challenge I was asked to create a command-line application that dynamic
 YouTube Demonstration: https://youtu.be/01a4ncrD5PI
 
 # User Story
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
+* AS A developer
+* I WANT a README generator
+* SO THAT I can quickly create a professional README for a new project
 
 # Acceptance Criteria:
 * GIVEN a command-line application that accepts user input
