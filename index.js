@@ -37,7 +37,7 @@ inquirer.prompt([
 ])
 
 .then((response) => 
-  fs.writeFile('Sample-README.md', (generateMarkdown(response)), (err) => {
+  fs.writeFile('example-README.md', (generateMarkdown(response)), (err) => {
     err ? console.error(err) : console.log('Success! Check out your generatedREADME.md')
   })
 );
